@@ -25,6 +25,7 @@ html,body{
     width: 100%;
     margin: auto;
     font-family: spo;
+    background: linear-gradient(#202020, #101010); 
 }
  .menu-link a {
     color: rgb(218, 218, 218);
